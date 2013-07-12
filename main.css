@@ -37,11 +37,32 @@ h3 {
   color: #ffffff;
   border-radius:3px;
   border: solid 1px #E5E5E5;
-  margin:160px;
+  margin: 130px ;
   position:relative;
   left:480px;
   top:-270px;
 }
-.selected {
-	background-color:white;
+#play_again {
+	display:none;
+	height:100px;
+	width:240px;
+  font-weight:bold;
+  font-size:30px;
+  text-decoration: none;
+  background-color: #d94a39;
+  color: #ffffff;
+  border-radius:3px;
+  border: solid 1px #E5E5E5;
+  margin: 130px ;
+  position:relative;
+  left:70%;
+  top:-270px;
+}
+img {
+	background-color:black;
+	display:none;
+	width:600px;
+	height:445px;
+	position:relative;
+	top:-160px;
 }
